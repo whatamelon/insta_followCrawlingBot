@@ -1,6 +1,6 @@
 python으로 인스타그램 팔로워 가져오는 프로그램입니다.
 
-selenium / beautiful soup4 / webdriver 를 설치해주세요.
+google chrome webdriver 를 설치해주세요.
 
 webdriver는 사용자 pc 의 크롬 버전과 동일한 버전을 권장합니다.
 
